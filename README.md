@@ -49,10 +49,8 @@ Built with **Python**, **Scikit-learn**, **NLTK**, and **Streamlit**.
 ---
 
 ## 🚀 Getting Started
-
- 1️⃣ Clone the Repository
-
 ```
+1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/email-sms-classifier.git
 cd email-sms-classifier
 
@@ -75,7 +73,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
-🧪 How It Works
+## 🧪 How It Works
 - User enters email/SMS text
 
 - Text is preprocessed (lowercasing, tokenization, stopword removal, stemming)
@@ -86,11 +84,11 @@ streamlit run app.py
 
 - Result displayed in the UI
 
-📓 Jupyter Notebook
+## 📓 Jupyter Notebook
 Model training and preprocessing workflow:
 Sms-spam_Detection.ipynb
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 - Add confidence score
 
 - Better UI design
