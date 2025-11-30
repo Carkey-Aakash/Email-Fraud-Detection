@@ -8,11 +8,11 @@ Built with **Python**, **Scikit-learn**, **NLTK**, and **Streamlit**.
 ## 📸 Screenshots
 
 ### 🔴 Spam Detected  
-<img width="1035" height="500" alt="Image" src="https://github.com/user-attachments/assets/ce1b752d-5943-47d2-9bfb-f29227b6ddf3" />
+<img width="1035" height="500" alt="Image" src="https://github.com/user-attachments/assets/d6731cdc-2c8d-4ada-9aa5-ae97a24fe65c" />
 
 
 ### 🟢 Not Spam  
-<img width="1063" height="532" alt="Image" src="https://github.com/user-attachments/assets/7bbcc2ba-780f-4330-9acd-fd4361c816c7" />
+<img width="1063" height="532" alt="Image" src="https://github.com/user-attachments/assets/7e162161-0def-46d3-b27b-1b7cbfaa31cc" />
 
 ---
 
